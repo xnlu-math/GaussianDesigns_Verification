@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: 'If you use these certificates or the verifier, please cite the paper given under preferred-citation.'
+title: 'Exact verification for Paired Constructions and Rational Gaussian Designs'
+type: software
+authors:
+  - family-names: Lu
+    given-names: Xiao-Nan
+  - family-names: Sawa
+    given-names: Masanori
+version: 1.0.0
+license: MIT
+repository-code: 'https://github.com/xnlu-math/GaussianDesigns_Verification'
+abstract: 'Exact Python verification of the rational Gaussian design certificates listed in the paper, including disjointness of unions, paired moments, and finite order coverage.'
+preferred-citation:
+  type: article
+  title: 'Paired Constructions and Rational Gaussian Designs'
+  authors:
+    - family-names: Lu
+      given-names: Xiao-Nan
+    - family-names: Sawa
+      given-names: Masanori
+  year: 2026
