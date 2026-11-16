@@ -98,8 +98,8 @@ paper that accompanies release `v1.0.0` of this repository.
 
 Designs are referred to by their labels in the paper. For example, `X28` is
 $X_{28}$ and `H37` is $H_{37}$. The label `X32tilde` denotes
-$\widetilde{X}_{32}$, and a suffix `p` denotes a primed alternative, so `Z60p`
-is $Z'_{60}$.
+$\widetilde X_{32}$, and a suffix `p` denotes a primed alternative, so `Z60p`
+is $Z_{60}'$.
 
 `data/appendix_data.json` contains the following entries:
 
